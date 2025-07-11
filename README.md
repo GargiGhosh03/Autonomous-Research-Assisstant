@@ -20,15 +20,25 @@ A fully local, AI-powered research assistant built using PDF parsing, chunking, 
 
 Autonomous-RA/
 ├── data/
+
 │ └── raw_pdfs/ # Your uploaded academic papers
+
 │ └── processed_chunks.json # Cleaned and chunked text with metadata
+
 ├── embeddings/
+
 │ └── embedder.py # Embeds all chunks into ChromaDB
+
 ├── vector_store/ # ChromaDB persistent vector index
+
 ├── utils/
+
 │ └── pdf_parser.py # PDF parsing and chunk extraction logic
+
 ├── streamlit_app.py # Frontend UI for querying the assistant
+
 ├── requirements.txt
+
 └── README.md
 
 
