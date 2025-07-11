@@ -44,15 +44,10 @@ Autonomous-RA/
 
 ## 🛠️ Installation
 
-# Clone the repo
+## Clone the repo
 git clone https://github.com/yourusername/Autonomous-RA.git
 cd Autonomous-RA
 
-# (Optional) Create virtual environment
-python -m venv venv
-venv\Scripts\activate   # Windows
-# source venv/bin/activate  # macOS/Linux
-
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
  
