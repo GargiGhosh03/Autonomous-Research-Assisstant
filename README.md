@@ -14,7 +14,8 @@ A fully local, AI-powered research assistant built using PDF parsing, chunking, 
 - ✅ 100% local (no cloud dependencies)
 - ✅ Modular design for easy extension
 
-🔧 Additional Dependencies (Required for PDF Parsing)
+##🔧 Additional Dependencies (Required for PDF Parsing)
+
 This project uses OCR to extract text from scanned or image-based PDFs. Make sure the following system tools are installed and added to your PATH:
 
 📌 1. Poppler
