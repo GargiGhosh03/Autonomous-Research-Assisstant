@@ -27,7 +27,14 @@ Extract it `(e.g., C:\poppler)`.
 
 Add the path to `C:\poppler\Library\bin in your system environment variables (PATH)`.
 
+📌 2. Tesseract OCR
+Tesseract is used for extracting text from images within PDFs.
 
+Windows: Download the installer from Tesseract GitHub.
+
+Install to a known location `(e.g., C:\Tesseract-OCR)`.
+
+Add that folder to your PATH environment variable.
 
 ## 🛠️ Installation
 pip install -r requirements.txt
