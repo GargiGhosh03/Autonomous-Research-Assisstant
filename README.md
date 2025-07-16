@@ -23,9 +23,9 @@ Poppler is required for reading and converting PDF pages.
 
 Windows: Download from Poppler for Windows.
 
-Extract it (e.g., C:\poppler).
+Extract it `(e.g., C:\poppler)`.
 
-Add the path to C:\poppler\Library\bin in your system environment variables (PATH).
+Add the path to `C:\poppler\Library\bin in your system environment variables (PATH)`.
 
 
 
