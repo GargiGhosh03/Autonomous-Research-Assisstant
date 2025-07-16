@@ -14,13 +14,20 @@ A fully local, AI-powered research assistant built using PDF parsing, chunking, 
 - ✅ 100% local (no cloud dependencies)
 - ✅ Modular design for easy extension
 
+🔧 Additional Dependencies (Required for PDF Parsing)
+This project uses OCR to extract text from scanned or image-based PDFs. Make sure the following system tools are installed and added to your PATH:
+
+📌 1. Poppler
+Poppler is required for reading and converting PDF pages.
+
+Windows: Download from Poppler for Windows.
+
+Extract it (e.g., C:\poppler).
+
+Add the path to C:\poppler\Library\bin in your system environment variables (PATH).
+
+
 
 ## 🛠️ Installation
-
-## Clone the repo
-git clone https://github.com/yourusername/Autonomous-RA.git
-cd Autonomous-RA
-
-## Install dependencies
 pip install -r requirements.txt
  
