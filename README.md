@@ -38,4 +38,20 @@ Add that folder to your PATH environment variable.
 
 ## 🛠️ Installation
 pip install -r requirements.txt
- 
+
+## 🖥 Interface Walkthrough
+
+### 🧪 Interaction Interface
+
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top; padding: 10px;">
+      <p>
+        Users can write the desired questions they want in the box. 
+      </p>
+    </td>
+    <td style="width: 50%; padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/b2293920-a66a-4a16-8e9d-77f698b72369" alt="Upload Interface" style="max-width: 100%; border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
