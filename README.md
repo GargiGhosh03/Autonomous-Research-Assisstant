@@ -47,7 +47,7 @@ pip install -r requirements.txt
   <tr>
     <td style="width: 50%; vertical-align: top; padding: 10px;">
       <p>
-        Users can write the desired questions they want in the box. 
+        Users can write the desired questions they want in the box. The chunks can be adjusted on the desired requirements of the user (max 10) i.e how many extracts they want from different research paper. 
       </p>
     </td>
     <td style="width: 50%; padding: 10px;">
