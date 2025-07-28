@@ -66,6 +66,6 @@ pip install -r requirements.txt
       </p>
     </td>
     <td style="width: 50%; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/fe0f8981-8a0e-4f3b-8c24-18bebef9a9d7" alt="Upload Interface" style="max-width: 100%; border-radius: 10px;" />
+      <img src="https://github.com/user-attachments/assets/16da1045-5ba4-4e64-9d5d-fc68b9bd9bf7" alt="Upload Interface" style="max-width: 100%; border-radius: 10px;" />
     </td>
   </tr>
