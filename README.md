@@ -55,3 +55,17 @@ pip install -r requirements.txt
     </td>
   </tr>
 </table>
+
+### 🧪 Question 
+
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top; padding: 10px;">
+      <p>
+        Users can write the desired questions they want in the box. The chunks can be adjusted on the desired requirements of the user (max 10) i.e how many extracts they want from different research paper. 
+      </p>
+    </td>
+    <td style="width: 50%; padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/fe0f8981-8a0e-4f3b-8c24-18bebef9a9d7" alt="Upload Interface" style="max-width: 100%; border-radius: 10px;" />
+    </td>
+  </tr>
