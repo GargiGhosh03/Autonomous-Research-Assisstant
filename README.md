@@ -62,7 +62,7 @@ pip install -r requirements.txt
   <tr>
     <td style="width: 50%; vertical-align: top; padding: 10px;">
       <p>
-        Users can write the desired questions they want in the box. The chunks can be adjusted on the desired requirements of the user (max 10) i.e how many extracts they want from different research paper. 
+        Here for e.g "AI" has been written as prompt inside the box to extract the meaningful information or related information which are present inside the research articles/ papers in accordance to AI. The questions can be altered respectively and the desired number of chunks along with the answers can be extracted.  
       </p>
     </td>
     <td style="width: 50%; padding: 10px;">
