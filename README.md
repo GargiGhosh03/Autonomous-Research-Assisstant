@@ -69,3 +69,18 @@ pip install -r requirements.txt
       <img src="https://github.com/user-attachments/assets/16da1045-5ba4-4e64-9d5d-fc68b9bd9bf7" alt="Upload Interface" style="max-width: 100%; border-radius: 10px;" />
     </td>
   </tr>
+
+### 🧪 Question 
+
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top; padding: 10px;">
+      <p>
+        Working of the Streamlite model run on local machine - VS Code 
+      </p>
+    </td>
+    <td style="width: 50%; padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/3dd51392-e59a-4e37-89c1-9964172afa02" alt="Upload Interface" style="max-width: 100%; border-radius: 10px;" />
+    </td>
+  </tr>
+ 
